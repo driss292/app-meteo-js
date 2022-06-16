@@ -1,7 +1,8 @@
 import tabJoursEnOrdre from "./Utilitaire/gestionTemps.js";
+import WEATHER_API_KEY from "./Utilitaire/apiKey.js";
 // console.log(tabJoursEnOrdre);
 
-const API_KEY = "4b2c7cd6591ba24e90ed77b8bf2f33c7";
+const API_KEY = WEATHER_API_KEY;
 
 const temps = document.querySelector(".temps");
 const temperature = document.querySelector(".temperature");
