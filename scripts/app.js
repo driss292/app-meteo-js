@@ -1,5 +1,5 @@
 import tabJoursEnOrdre from "./Utilitaire/gestionTemps.js";
-import WEATHER_API_KEY from "./Utilitaire/apiKey.js";
+import WEATHER_API_KEY from "./apiKey.js";
 // console.log(tabJoursEnOrdre);
 
 const API_KEY = WEATHER_API_KEY;
